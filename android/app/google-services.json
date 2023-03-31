@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479075608209",
+    "project_id": "acdcinema-5cacb",
+    "storage_bucket": "acdcinema-5cacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479075608209:android:083eb1bb1570b47bf48130",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cinema_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479075608209-mp5a3l4o5q5p0f3ik3mlc576dqopardo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1G5zH1pJMyE0YwdwIbK4m7OZ7cAVI1e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479075608209-mp5a3l4o5q5p0f3ik3mlc576dqopardo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
